@@ -173,7 +173,7 @@ const Home = () => {
                 title="上海复兴公园数字化建模"
                 description="Digital modeling on Shanghai Fuxin park"
                 buttonText="查看详情"
-                buttonLink="/park-model-page/index.html"
+                buttonLink="/park-model-page/model.html"
                 isExternal={true}
                 model={{
                     type: 'laptop',
