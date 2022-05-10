@@ -4,7 +4,6 @@
   "description": "Portfolio site for Alen Yohannan",
   "repository": "https://github.com/Alensaito1/portfolio.git",
   "author": "Alen Yohannan",
-  "homepage": "/meta-park",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@hamishmw/react-scripts-postcss": "4.0.0-mod1",
