@@ -24,7 +24,7 @@ import park_model from 'assets/parkmodel.jpg'
 
 import './index.css'
 
-const disciplines = ['Digital', 'Greenness','Healty']
+const disciplines = ['Digital', 'Greenness','Healthy']
 
 const Home = () => {
     const { status } = useRouteTransition()
