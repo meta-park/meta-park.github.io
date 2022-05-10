@@ -4,6 +4,7 @@
   "description": "Portfolio site for Alen Yohannan",
   "repository": "https://github.com/Alensaito1/portfolio.git",
   "author": "Alen Yohannan",
+  "homepage": "/doc",
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@hamishmw/react-scripts-postcss": "4.0.0-mod1",
@@ -27,6 +28,7 @@
     "nodemailer": "^6.6.3",
     "popmotion": "^8.7.5",
     "react": "^17.0.1",
+    "react-dev-utils": "^12.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "react-router-dom": "5.2.0",
