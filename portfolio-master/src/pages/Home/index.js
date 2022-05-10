@@ -170,8 +170,8 @@ const Home = () => {
                 sectionRef={projectOne}
                 visible={visibleSections.includes(projectOne.current)}
                 index={1}
-                title="上海复兴公园数字化建模"
-                description="Digital modeling on Shanghai Fuxin park"
+                title="上海复兴公园元宇宙"
+                description="Shanghai Fuxin Park in Metaverse"
                 buttonText="查看详情"
                 buttonLink="/park-model-page/model.html"
                 isExternal={true}
