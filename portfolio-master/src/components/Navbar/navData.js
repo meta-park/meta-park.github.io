@@ -1,11 +1,11 @@
 export const navLinks = [
     {
-        label: 'Projects',
+        label: '成果展示',
         pathname: '/',
         hash: '#project-1',
     },
     {
-        label: 'Details',
+        label: '关于我们',
         pathname: '/',
         hash: '#details',
     },
@@ -14,7 +14,7 @@ export const navLinks = [
     //   pathname: '/articles',
     // },
     {
-        label: 'Contact',
+        label: '联系我们',
         pathname: '/contact',
     },
 ]
