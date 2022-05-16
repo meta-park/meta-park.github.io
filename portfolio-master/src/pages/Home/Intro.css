@@ -135,7 +135,7 @@
 }
 
 .intro__title-row {
-  display: flex;
+  display: block;
   flex-direction: row;
   align-items: center;
   position: relative;
