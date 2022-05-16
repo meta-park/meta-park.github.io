@@ -11,6 +11,7 @@ import { reflow } from 'utils/transition'
 import { media, msToNum, numToMs } from 'utils/style'
 import { tokens } from 'components/ThemeProvider/theme'
 import { blurOnMouseUp } from 'utils/focus'
+import logo from 'assets/logo.svg'
 import './index.css'
 
 const NavbarIcons = () => (
@@ -62,7 +63,8 @@ function Header(props) {
                 onClick={handleMobileNavClick}
                 onMouseUp={blurOnMouseUp}
             >
-                <Monogram highlight />
+                {/* <Monogram highlight /> */}
+                <img width="60px" src={logo}></img>
             </RouterLink>
             <NavToggle
                 onClick={() => dispatch({ type: 'toggleMenu' })}

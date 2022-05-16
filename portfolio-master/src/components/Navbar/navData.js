@@ -1,8 +1,13 @@
 export const navLinks = [
     {
-        label: '成果展示',
+        label: '数字游园',
         pathname: '/',
         hash: '#project-1',
+    },
+    {
+        label: '公园概览',
+        path: '/',
+        hash: '#parks'
     },
     {
         label: '关于我们',

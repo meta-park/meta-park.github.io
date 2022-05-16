@@ -344,7 +344,9 @@ const Model = ({
                 }
 
                 // Load full res screen texture
-                await model.loadFullResTexture()
+                if(model.loadFullResTexture){
+                    await model.loadFullResTexture()
+                }
 
                 // Render the loaded texture
                 if (reduceMotion) {

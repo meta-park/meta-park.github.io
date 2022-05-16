@@ -15,31 +15,34 @@
 
   @media (--mediaDesktop) {
     & {
-      max-width: 920px;
+      max-width: 980px;
     }
   }
 
   @media (--mediaLaptop) {
     & {
-      max-width: 780px;
+      max-width: 1080px;
     }
   }
 
   @media (--mediaMobile) {
     & {
       top: calc(var(--space3XL) * -1);
+      left: 0;
     }
   }
 
   @media (--mediaMobileS) {
     & {
       top: calc(var(--spaceXL) * -1);
+      left: 0;
     }
   }
 
   @media (max-width: 820px) and (max-height: 420px) {
     & {
       top: calc(var(--spaceM) * -1);
+      left: 0;
     }
   }
 }
@@ -403,3 +406,60 @@
 .intro__mobile-scroll-indicator svg {
   stroke: rgb(var(--rgbText) / 0.5);
 }
+
+.intro__player_wrapper {
+  flex-direction: column;
+  @media (--mediaLaptop) {
+    & {
+      flex-direction: row;
+    }
+  }
+  @media (--mediaDesktop) {
+    & {
+      flex-direction: row;
+    }
+  }
+  @media (--mediaMobile) {
+    & {
+      flex-direction: column;
+    }
+  }
+
+  @media (--mediaMobileS) {
+    & {
+      flex-direction: column;
+    }
+  }
+}
+
+.intro_player {
+  width: 100%;
+  @media (--mediaLaptop) {
+    & {
+      margin-left: 50px;
+      margin-top: 15px;
+    }
+  }
+  @media (--mediaDesktop) {
+    & {
+      margin-left: 70px;
+      margin-top: 15px;
+    }
+  }
+  @media (--mediaMobile) {
+    & {
+      margin-left: 0;
+      margin-top: 30px;
+    }
+  }
+
+  @media (--mediaMobileS) {
+    & {
+      margin-left: 0;
+      margin-top: 25px;
+    }
+  }
+}
+
+
+

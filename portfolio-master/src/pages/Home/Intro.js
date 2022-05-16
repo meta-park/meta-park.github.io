@@ -83,7 +83,8 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                     delay={300}
                                 />
                             </h1>
-                            <Heading level={0} as="h2" className="intro__title">
+                            <Heading level={0} as="h2" className={classNames('intro__title','intro__player_wrapper')}>
+                                <div>
                                 <VisuallyHidden className="intro__title-label">{`Designer + ${introLabel}`}</VisuallyHidden>
                                 <span
                                     aria-hidden
@@ -98,7 +99,7 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                         )}
                                         style={{ '--delay': tokens.base.durationXS}}
                                     >
-                                        METAPARK  <br></br>数幻游园
+                                        METAPARK<br></br>数幻游园
                                     </span>
                                     <span
                                         classNameperppplllsss={classNames(
@@ -138,6 +139,19 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                         </Transition>
                                     ))}
                                 </TransitionGroup>
+                                </div>
+                                <div className='intro_player'>
+                                    {/* <Player>
+
+                                    </Player> */}
+                                    <iframe src="//player.bilibili.com/player.html?aid=60016166&bvid=1b541197Yv&page=1&as_wide=1&high_quality=1&danmaku=0" 
+                                    allowfullscreen="allowfullscreen" 
+                                    width="100%"
+                                    height="250px"
+                                    scrolling="no" 
+                                    frameborder="0" 
+                                    sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+                                </div>
                             </Heading>
                         </header>
                         {windowSize.width > media.tablet && (

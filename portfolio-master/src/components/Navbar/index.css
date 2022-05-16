@@ -48,6 +48,10 @@
   }
 }
 
+.navbar__logo div {
+  width: 40px;
+}
+
 .navbar__nav {
   display: flex;
   flex-direction: column;
@@ -66,7 +70,7 @@
 }
 
 .navbar__nav-list {
-  transform: translate3d(0, 50%, 0);
+  transform: translate3d(0, 10%, 0);
   display: flex;
   flex-direction:column;
 }

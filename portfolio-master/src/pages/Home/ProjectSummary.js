@@ -169,6 +169,76 @@ const ProjectSummary = ({
                     />
                 </Fragment>
             )}
+
+            {model.type === 'vr' && (
+                <Fragment>
+                    <KatakanaProject
+                        style={{ '--opacity': svgOpacity }}
+                        className={classNames(
+                            'project-summary__svg',
+                            'project-summary__svg--phone',
+                            `project-summary__svg--${status}`,
+                            {
+                                'project-summary__svg--light': theme.themeId === 'light',
+                            }
+                        )}
+                    />
+                    <Model
+                        className={classNames(
+                            'project-summary__model',
+                            'project-summary__model--vr'
+                        )}
+                        alt={model.alt}
+                        cameraPosition={{ x: 0.1, y: 0, z: 5 }}
+                        showDelay={100}
+                        show={isVisible(status)}
+                        models={[
+                            {
+                                ...deviceModels.vr,
+                                texture: {
+                                    ...model.textures[0],
+                                    sizes: laptopSizes,
+                                }
+                            },
+                        ]}
+                    />
+                </Fragment>
+            )}
+            {/* {model.type === 'vr' && (
+                <Fragment>
+                    <KatakanaProject
+                        style={{ '--opacity': svgOpacity }}
+                        className={classNames(
+                            'project-summary__svg',
+                            'project-summary__svg--phone',
+                            `project-summary__svg--${status}`,
+                            {
+                                'project-summary__svg--light': theme.themeId === 'light',
+                            }
+                        )}
+                    />
+                    <Model
+                        className={classNames(
+                            'project-summary__model',
+                            'project-summary__model--phone'
+                        )}
+                        alt={model.alt}
+                        cameraPosition={{ x: 0, y: 0, z: 11.5 }}
+                        showDelay={500}
+                        show={isVisible(status)}
+                        models={[
+                            {
+                                ...deviceModels.vr,
+                                position: { x: -0.6, y: 1.1, z: 0 },
+                                texture: {
+                                    ...model.textures[0],
+                                    sizes: laptopSizes,
+                                },
+                            }
+                        ]}
+                    />
+                </Fragment>
+            )} */}
         </div>
     )
 

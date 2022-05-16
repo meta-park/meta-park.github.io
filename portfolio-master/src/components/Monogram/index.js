@@ -27,6 +27,7 @@ function Monogram({ highlight, className, ...props }) {
                 </g>
             )}
         </svg>
+
     )
 }
 

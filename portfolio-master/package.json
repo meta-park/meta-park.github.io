@@ -32,8 +32,12 @@
     "react-helmet": "^6.1.0",
     "react-router-dom": "5.2.0",
     "react-scripts-postcss": "^4.0.0-mod1",
+    "react-slick": "^0.29.0",
     "react-transition-group": "^4.4.1",
-    "three": "^0.126.0"
+    "redux": "^4.2.0",
+    "slick-carousel": "^1.8.1",
+    "three": "^0.126.0",
+    "video-react": "^0.15.0"
   },
   "scripts": {
     "start": "react-scripts start",

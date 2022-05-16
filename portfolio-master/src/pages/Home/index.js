@@ -13,10 +13,10 @@ import macbookPro from 'assets/macbook-pro.glb'
 // import player from 'assets/player.jpg'
 // import player_placeholder from 'assets/player-blurred.jpg'
 import park_model from 'assets/parkmodel.jpg'
-// import chess from 'assets/chess-1.jpg'
-// import chess2 from 'assets/chess-2.jpg'
-// import chess_ph from 'assets/chess-1_blurred.jpg'
-// import chess2_ph from 'assets/chess-2_blurred.jpg'
+import chess from 'assets/chess-1.jpg'
+//import chess2 from 'assets/chess-2.jpg'
+import chess_ph from 'assets/chess-1_blurred.jpg'
+//import chess2_ph from 'assets/chess-2_blurred.jpg'
 // import fubuki from 'assets/fubuki-npm-light.png'
 // import fubuki_ph from 'assets/fubuki-ph.jpg'
 // import contrib from 'assets/gh-contrib-terminal.png'
@@ -24,7 +24,11 @@ import park_model from 'assets/parkmodel.jpg'
 
 import './index.css'
 
-const disciplines = ['Digital', 'Greenness','Healthy']
+import Carousel from "pages/Home/Carousel";
+
+
+
+const disciplines = ['Digital', 'Green','Healthy']
 
 const Home = () => {
     const { status } = useRouteTransition()
@@ -34,10 +38,11 @@ const Home = () => {
     const [scrollIndicatorHidden, setScrollIndicatorHidden] = useState(false)
     const intro = useRef()
     const projectOne = useRef()
-    // const projectTwo = useRef()
+    const projectTwo = useRef()
     // const projectThree = useRef()
     // const projectFour = useRef()
     // const projectFive = useRef()
+    const parksCarousel = useRef()
     const details = useRef()
     const prefersReducedMotion = usePrefersReducedMotion()
 
@@ -45,7 +50,8 @@ const Home = () => {
         const revealSections = [
             intro,
             projectOne,
-            //projectTwo,
+            projectTwo,
+            parksCarousel,
             //projectThree,
             //projectFour,
             //projectFive,
@@ -94,7 +100,7 @@ const Home = () => {
 
         const handleHashchange = (hash, scroll) => {
             clearTimeout(scrollTimeout)
-            const hashSections = [intro, projectOne, details]
+            const hashSections = [intro, projectOne, details, parksCarousel]
             const hashString = hash.replace('#', '')
             const element = hashSections.filter(item => item.current.id === hashString)[0]
             if (!element) return
@@ -170,7 +176,7 @@ const Home = () => {
                 sectionRef={projectOne}
                 visible={visibleSections.includes(projectOne.current)}
                 index={1}
-                title="上海复兴公园元宇宙"
+                title="上海复兴公园在线游览"
                 description="Shanghai Fuxin Park in Metaverse"
                 buttonText="查看详情"
                 buttonLink="/park-model-page/model.html"
@@ -187,34 +193,29 @@ const Home = () => {
                     ],
                 }}
             />
-            {/* <ProjectSummary
+           <ProjectSummary
                 id="project-2"
                 alternate
                 sectionRef={projectTwo}
                 visible={visibleSections.includes(projectTwo.current)}
                 index={2}
-                title="Void"
-                description="A WhatsApp bot which can be used to play chess & more!"
-                buttonText="View Project"
-                buttonLink="https://github.com/Synthesized-infinity/whatsapp-botto-void"
+                title="上海复兴公园元宇宙"
+                description="Shanghai Fuxin park in metaverse"
+                buttonText="查看详情"
+                buttonLink=""
                 model={{
-                    type: 'phone',
+                    type: 'vr',
                     alt: 'Spotifydl-Core',
                     textures: [
                         {
                             src: chess,
                             srcSet: `${chess} 254w, ${chess} 508w`,
                             placeholder: chess_ph,
-                        },
-                        {
-                            src: chess2,
-                            srcSet: `${chess2} 254w, ${chess2} 508w`,
-                            placeholder: chess2_ph,
-                        },
+                        }
                     ],
                 }}
             />
-            <ProjectSummary
+             {/*<ProjectSummary
                 id="project-3"
                 sectionRef={projectThree}
                 visible={visibleSections.includes(projectThree.current)}
@@ -283,6 +284,10 @@ const Home = () => {
                     ],
                 }}
             /> */}
+            <Carousel
+                id="parks"
+                sectionRef={parksCarousel}
+            ></Carousel>
             <Profile
                 sectionRef={details}
                 visible={visibleSections.includes(details.current)}

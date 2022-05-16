@@ -1,5 +1,6 @@
 import iphone11 from 'assets/iphone-11.glb'
 import macbookPro from 'assets/macbook-pro.glb'
+import vr from 'assets/vr-glasses.glb'
 
 export const ModelAnimationType = {
     SpringUp: 'spring-up',
@@ -21,6 +22,12 @@ const models = {
         position: { x: 0, y: 0, z: 0 },
         animation: ModelAnimationType.LaptopOpen,
     },
+    vr: {
+        url: vr,
+        width: 1280,
+        height: 800,
+        position: { x: 0, y: 0, z: 0 },
+    }
 }
 
 export default models
