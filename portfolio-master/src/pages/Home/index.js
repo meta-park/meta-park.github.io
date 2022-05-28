@@ -177,7 +177,7 @@ const Home = () => {
                 visible={visibleSections.includes(projectOne.current)}
                 index={1}
                 title="上海复兴公园在线游览"
-                description="Shanghai Fuxin Park in Metaverse"
+                description="Shanghai Fuxin Park Online Tour"
                 buttonText="查看详情"
                 buttonLink="/park-model-page/model.html"
                 isExternal={true}
@@ -200,7 +200,7 @@ const Home = () => {
                 visible={visibleSections.includes(projectTwo.current)}
                 index={2}
                 title="上海复兴公园元宇宙"
-                description="Shanghai Fuxin park in metaverse"
+                description="Shanghai Fuxin Park in Metaverse"
                 buttonText="查看详情"
                 buttonLink=""
                 model={{

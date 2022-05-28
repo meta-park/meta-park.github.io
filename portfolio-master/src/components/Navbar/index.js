@@ -1,7 +1,6 @@
 import { useRef, useState, memo } from 'react'
 import { NavLink, Link as RouterLink } from 'react-router-dom'
 import { Transition } from 'react-transition-group'
-import Monogram from 'components/Monogram'
 import Icon from 'components/Icon'
 import NavToggle from './NavToggle'
 import ThemeToggle from './ThemeToggle'
@@ -64,7 +63,7 @@ function Header(props) {
                 onMouseUp={blurOnMouseUp}
             >
                 {/* <Monogram highlight /> */}
-                <img width="60px" src={logo}></img>
+                <img width="60px" src={logo} alt='logo'></img>
             </RouterLink>
             <NavToggle
                 onClick={() => dispatch({ type: 'toggleMenu' })}

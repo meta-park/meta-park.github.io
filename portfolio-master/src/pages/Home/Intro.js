@@ -144,10 +144,12 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                     {/* <Player>
 
                                     </Player> */}
-                                    <iframe src="//player.bilibili.com/player.html?aid=60016166&bvid=1b541197Yv&page=1&as_wide=1&high_quality=1&danmaku=0" 
+                                    <iframe 
+                                    title='vedio'
+                                    src="//player.bilibili.com/player.html?aid=60016166&bvid=1b541197Yv&page=1&as_wide=1&high_quality=1&danmaku=0" 
                                     allowfullscreen="allowfullscreen" 
                                     width="100%"
-                                    height="250px"
+                                    height="100%"
                                     scrolling="no" 
                                     frameborder="0" 
                                     sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>

@@ -177,22 +177,71 @@
 }
 
 .profile__avatar {
-  width: 250px;
+  width: 150px;
+  height: 150px;
   margin: auto;
   border-radius: 50%;
   border: 3px solid rgb(var(--rgbTitle));
   overflow: hidden;
+  cursor: pointer;
 }
 
 .profile__avatar__text {
+  position: relative;
   margin: auto;
   text-align: center;
   margin-top: 15px;
   font-weight: bold;
+  width: 130px;
+}
+
+.profile__avatar__text::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  transition: .3s ease-in-out;
+  left: -3px;
+  bottom: -5px;
   border-bottom: 3px solid rgb(var(--rgbTitle));
-  width: 170px;
 }
 
 .profile__contact {
   text-align: center;
+}
+
+.profile__avatar-list {
+  display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profile__avatar-wrapper {
+  padding: 10px 20px;
+  transition: .3s ease-in-out;
+}
+
+.profile__avatar-wrapper-choosed .profile__avatar__text::before{
+  width: 130px;
+}
+
+.profile__avatar-wrapper:hover {
+  transform: translateY(-10px);
+}
+
+.fade-enter{
+  opacity: 0;
+}
+.fade-exit{
+  opacity: 1;
+}
+.fade-enter-active{
+  opacity: 1;
+}
+.fade-exit-active{
+  opacity: 0;
+}
+.fade-enter-active,
+.fade-exit-active{
+  transition: opacity 500ms;
 }

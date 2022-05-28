@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>公园地图</title>
+    </head>
+    <body>
+        <div class="map_wrapper">
+            <a id="sink-garden" href="../sink-garden-page/index.html">
+                沉床花园
+                <img src="./assets/location.svg" alt="">
+            </a>
+            <img src="./assets/map.jpg" alt="">
+        </div>
+    </body>
+
+    <style>
+        html, body {
+            margin: 0;
+        }
+
+        .map_wrapper {
+            position: relative;
+            text-align: center;
+            background-color:cornsilk;
+        }
+
+        #sink-garden {
+            position: absolute;
+            top: 29%;
+            left: 47%;
+            width: 5%;
+            color: #888;
+            animation: location 3s infinite;
+        }
+
+        @keyframes location {
+            0% {
+                transform: translateY(0px);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+            100% {
+                transform: translateY(0px);
+            }
+        }
+
+        .map_wrapper img {
+            width: 100%;
+            height: 100%;
+        }
+        a {
+            text-decoration: none;
+        }
+
+        .bubble-box {
+                position: relative;
+                border: 2px solid #0038ff;
+                border-radius: 5px;
+                width: 200px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                margin-left: 20px;
+            }
+
+            .bubble-box::before {
+                content: " ";
+                position: absolute;
+                border: 10px solid transparent;
+                border-top-color: #0038ff;
+                border-right-color: #0038ff;
+                right: 100%;
+                top: 8%;
+                transform: skewY(16deg);
+            }
+    </style>
+</html>
