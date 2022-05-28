@@ -179,7 +179,7 @@ const Home = () => {
                 title="上海复兴公园在线游览"
                 description="Shanghai Fuxin Park Online Tour"
                 buttonText="查看详情"
-                buttonLink="/park-model-page/model.html"
+                buttonLink="/25D-page/index.html"
                 isExternal={true}
                 model={{
                     type: 'laptop',
@@ -201,7 +201,7 @@ const Home = () => {
                 index={2}
                 title="上海复兴公园元宇宙"
                 description="Shanghai Fuxin Park in Metaverse"
-                buttonText="查看详情"
+                buttonText="敬请期待"
                 buttonLink=""
                 model={{
                     type: 'vr',
