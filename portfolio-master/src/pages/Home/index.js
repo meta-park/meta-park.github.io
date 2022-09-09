@@ -180,7 +180,7 @@ const Home = () => {
                 description="Shanghai Fuxin Park Online Tour"
                 buttonText="查看详情"
                 buttonLink="./25D-page/index.html"
-                isExternal={false}
+                isExternal={true}
                 model={{
                     type: 'laptop',
                     alt: 'Wa-Sticker-Formatter',
