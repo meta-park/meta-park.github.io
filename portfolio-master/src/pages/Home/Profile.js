@@ -141,12 +141,12 @@ const ProfileText = ({ status, titleId }) => {
                 </div>
                 <div className= "profile__avatar__text">指导老师 蒋飞</div>
             </div>
-            <div className={classNames('profile__avatar-wrapper', choosedAvatar === 2 ? 'profile__avatar-wrapper-choosed' : '')}>
-                <div className= "profile__avatar" onClick={() => chooseAvatar(2)}>
-                    <Image src={Sun} reveal delay={1200}/>
-                </div>
-                <div className= "profile__avatar__text">指导老师 孙继伟</div>
-            </div>
+            {/*<div className={classNames('profile__avatar-wrapper', choosedAvatar === 2 ? 'profile__avatar-wrapper-choosed' : '')}>*/}
+            {/*    <div className= "profile__avatar" onClick={() => chooseAvatar(2)}>*/}
+            {/*        <Image src={Sun} reveal delay={1200}/>*/}
+            {/*    </div>*/}
+            {/*    <div className= "profile__avatar__text">指导老师 孙继伟</div>*/}
+            {/*</div>*/}
             <div className={classNames('profile__avatar-wrapper', choosedAvatar === 3 ? 'profile__avatar-wrapper-choosed' : '')}>
                 <div className= "profile__avatar" onClick={() => chooseAvatar(3)}>
                     <Image src={Yan} reveal delay={1700}/>
