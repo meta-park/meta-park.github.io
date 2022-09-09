@@ -179,7 +179,7 @@ const Home = () => {
                 title="上海复兴公园在线游览"
                 description="Shanghai Fuxin Park Online Tour"
                 buttonText="查看详情"
-                buttonLink="/25D-page/index.html"
+                buttonLink="./25D-page/index.html"
                 isExternal={false}
                 model={{
                     type: 'laptop',
