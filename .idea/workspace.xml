@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/gotham-bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/gotham-book.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/gotham-medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-pages/model-viewer-page/assets/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-pages/sink-garden-page/assets/favicon.svg" afterDir="false" />
+    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/Lu.16e1b1db.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/media/Lu.16e1b1db.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/Yan.afaef81a.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/static/media/Yan.afaef81a.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/25D-page/assets/location.svg" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/location.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/25D-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/25D-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/model-viewer-page/pen.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/model-viewer-page/pen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/sink-garden-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/sink-garden-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/Lu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/Lu.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/Yan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/Yan.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/model-pages/sink-garden-page/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/portfolio-master/node_modules/stylelint" />
@@ -50,11 +34,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/model-pages/sink-garden-page/assets" />
       <recent name="$PROJECT_DIR$/model-pages/25D-page/assets" />
       <recent name="$PROJECT_DIR$/model-pages/model-viewer-page" />
       <recent name="$PROJECT_DIR$/portfolio-master/src/assets" />
-      <recent name="$PROJECT_DIR$/docs/static/media" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/model-pages/model-viewer-page/assets" />
@@ -78,8 +62,16 @@
       <workItem from="1662559703434" duration="1455000" />
       <workItem from="1662641932471" duration="901000" />
       <workItem from="1662689941805" duration="1180000" />
-      <workItem from="1662691580960" duration="5848000" />
+      <workItem from="1662691580960" duration="6435000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1662701681474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662701681474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
