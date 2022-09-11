@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="6">
+    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/25D-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/25D-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-pages/25D-page/assets/location.svg" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/location.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-pages/25D-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/25D-page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-pages/model-viewer-page/pen.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/model-viewer-page/pen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model-pages/sink-garden-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/sink-garden-page/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662707894790</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7">
+      <created>1662708224447</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662708224447</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +142,7 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>
