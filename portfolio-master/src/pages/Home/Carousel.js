@@ -21,25 +21,44 @@ import img66 from '../../assets/6.jpg';
 import img77 from '../../assets/7.jpg';
 import img88 from '../../assets/8.jpg';
 
+function SampleNextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+        <div
+            className={className}
+            style={{ ...style,  background: "red" ,width:"10px" }}
+            onClick={onClick}
+        />
+    );
+}
 
+function SamplePrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+        <div
+            className={className}
+            style={{ ...style, background: "green" }}
+            onClick={onClick}
+        />
+    );
+}
 
 
 export default function SimpleSlider({id, visible, sectionRef}) {
     const titleId = `${id}-title`
     var settings = {
-        dots: true,
+        dots: false,
         infinite: true,
-        lazyLoad: true,
-        // column:2,
-        speed: 500,
+        // lazyLoad: true,
+        draggable: false ,
         slidesToScroll: 1,
-        // autoplay: true,
         autoplaySpeed: 2500,
         className:"cur",
         slidesToShow:1,
-        easing:true
-
-        // rows: 2,
+        easing:true,
+        // arrows: false,
+        // nextArrow: <SampleNextArrow />,
+        // prevArrow: <SamplePrevArrow />
     };
     return (
         <Section

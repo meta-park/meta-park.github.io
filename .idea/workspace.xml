@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="9">
+    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/25D-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/25D-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +42,7 @@
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/portfolio-master/node_modules/stylelint" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -142,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662899420655</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10">
+      <created>1662900929492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662900929492</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +174,7 @@
     <MESSAGE value="7" />
     <MESSAGE value="8" />
     <MESSAGE value="9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9" />
+    <MESSAGE value="10" />
+    <option name="LAST_COMMIT_MESSAGE" value="10" />
   </component>
 </project>
