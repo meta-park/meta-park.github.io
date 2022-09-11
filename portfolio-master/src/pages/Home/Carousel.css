@@ -28,6 +28,20 @@
       color: #000;
   }
 
+  .cur{
+      font-family: "../../assets/fonts/gotham-medium.woff2", serif;
+      color :#4B4453
+  }
+  .no-left{
+      border: 10px none #cccccc;
+      border-right-style: solid;
+  }
+
+    .no-right{
+        border: 10px none #cccccc;
+        border-left-style:solid;
+    }
+
   .slick-prev {
     transform: translate(-30px,0);
   }

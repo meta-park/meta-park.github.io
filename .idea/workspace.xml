@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="7">
+    <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="8">
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/25D-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/25D-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/25D-page/assets/location.svg" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/25D-page/assets/location.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model-pages/25D-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/25D-page/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/model-viewer-page/pen.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/model-viewer-page/pen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model-pages/sink-garden-page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/model-pages/sink-garden-page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/04.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/05.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/06.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +40,15 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2ERWVZIwZT9U2ueRljSgljxzEZn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -119,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662708224447</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8">
+      <created>1662884092191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662884092191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,12 +160,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="6" />
     <MESSAGE value="7" />
-    <option name="LAST_COMMIT_MESSAGE" value="7" />
+    <MESSAGE value="8" />
+    <option name="LAST_COMMIT_MESSAGE" value="8" />
   </component>
 </project>
