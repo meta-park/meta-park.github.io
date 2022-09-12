@@ -47,7 +47,7 @@ function SamplePrevArrow(props) {
 export default function SimpleSlider({id, visible, sectionRef}) {
     const titleId = `${id}-title`
     var settings = {
-        dots: false,
+        // dots: true,
         infinite: true,
         // lazyLoad: true,
         adaptiveHeight: false,
@@ -73,7 +73,7 @@ export default function SimpleSlider({id, visible, sectionRef}) {
             <div className="container_wrapper">
                 <div className="container">
                     <Slider {...settings}>
-                        <div>
+                        <div className="left-border">
                             <img src={img11} alt="" className="bottom-border"/>
                             <a>豫园（Yu Garden）位于上海市老城厢的东北部，北靠福佑路，东临安仁街，西南与上海老城隍庙毗邻，是江南古典园林，始建于明代嘉靖、万历年间，占地三十余亩。豫园的绿化布局合理，植物配置得当，层次分明，其特点是古树名木多、大盆景多、摆花多，园内还有穗堂、铁狮子、快楼、得月楼、玉玲珑、积玉水廊、听涛阁、涵碧楼、内园静观大厅、古戏台等亭台楼阁以及假山、池塘等四十余处古代建筑。</a>
                         </div>
