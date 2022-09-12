@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="11">
+      <change afterPath="$PROJECT_DIR$/docs/static/css/3.cd8882fd.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/3.cd8882fd.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/3.18c74f67.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/3.18c74f67.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/runtime-main.c535d67a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/runtime-main.c535d67a.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/02.1c292596.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/1.049a8437.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" afterDir="false" />
     </list>
@@ -162,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662904040804</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="11">
+      <created>1662904861407</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662904861407</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
