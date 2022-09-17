@@ -5,14 +5,204 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="12">
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/3.7fb8c95c.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/3.7fb8c95c.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/6.f5373376.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/6.f5373376.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/7.b8e3101d.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/7.b8e3101d.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/8.82fd6898.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/8.82fd6898.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/9.5e40f8c0.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/9.5e40f8c0.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/main.b7ea111c.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/css/main.b7ea111c.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/3.af0c79b3.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/3.af0c79b3.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/6.aae9273e.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/6.aae9273e.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.75383251.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/main.75383251.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/runtime-main.22eb4842.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/js/runtime-main.22eb4842.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/00.9bec705c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/arrow-down.e74c092f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/arrow-right.bf4994d9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/chevron-right.bd293e28.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/close.11d8eaad.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/dribbble.36400335.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/error.24c91b4c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/figma.82391196.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/github.35454e7e.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/katakana-project.53044338.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/logo.a6063e59.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/mail.ac36d8bf.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/menu.00307091.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/pause.bc496424.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/play.c9f31c80.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/player-blurred.6e1a06de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/player.d093de23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/send.b473d940.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/static/media/twitter.bcf4c9f5.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/player.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/player.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/app/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/app/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/app/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/app/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/app/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/app/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/Sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/WSF-blurred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/WSF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/arrow-down.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/arrow-down.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/arrow-left.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/arrow-left.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/arrow-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/arrow-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/blush.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/botto-help.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/botto-help_blurred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/botto-profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/chess-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/chess-2_blurred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/arrow-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/arrow-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/chevron-right.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/chevron-right.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/close.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/close.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/dribbble.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/dribbble.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/error.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/error.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/figma.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/figma.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/github.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/mail.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/mail.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/menu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/menu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/pause.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/pause.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/play.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/play.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/send.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/send.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/icons/twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/icons/twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/katakana-profile.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/katakana-profile.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/katakana-project.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/katakana-project.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/spotify-player-blurred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/spotify-player.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/whatsapp-botto-void-blurred.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/whatsapp-botto-void.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Button/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Button/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Button/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Button/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/carouselShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/carouselShader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Carousel/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Code/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Code/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Code/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Code/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/DecoderText/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/DecoderText/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/DecoderText/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/DecoderText/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/DecoderText/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/DecoderText/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Divider/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Divider/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Divider/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Divider/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Footer/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Footer/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Heading/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Heading/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Heading/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Heading/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Heading/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Heading/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Icon/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Icon/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Icon/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Icon/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Icon/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Icon/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Image/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Image/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Image/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Image/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Input/TextArea.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Input/TextArea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Input/TextArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Input/TextArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Input/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Input/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Input/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Input/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Input/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Input/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Link/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Link/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Link/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Link/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Link/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Link/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Loader/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Loader/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Loader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Loader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Loader/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Loader/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Model/deviceModels.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Model/deviceModels.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Model/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Model/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Model/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Model/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Model/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Model/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Monogram/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Monogram/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Monogram/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Monogram/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Monogram/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Monogram/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/NavToggle.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/NavToggle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/NavToggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/NavToggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/ThemeToggle.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/ThemeToggle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/ThemeToggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/ThemeToggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/navData.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Navbar/navData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/ProjectLayout/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/ProjectLayout/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/ProjectLayout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/ProjectLayout/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Section/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Section/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Section/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Section/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/SegmentedControl/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/SegmentedControl/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/SegmentedControl/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/SegmentedControl/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/SegmentedControl/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/SegmentedControl/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Table/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Table/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Table/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Table/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Text/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Text/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Text/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Text/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/Text/index.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/Text/index.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/ThemeProvider/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/ThemeProvider/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/ThemeProvider/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/ThemeProvider/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/ThemeProvider/useTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/ThemeProvider/useTheme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/VisuallyHidden/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/VisuallyHidden/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/components/VisuallyHidden/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/components/VisuallyHidden/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useAppContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useAppContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useFormInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useFormInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useId.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useId.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useInViewport.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useInViewport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useInterval.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useInterval.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useLocalStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useLocalStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useParallax.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useParallax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/usePrefersReducedMotion.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/usePrefersReducedMotion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/usePrevious.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/usePrevious.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useRouteTransition.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useRouteTransition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useScrollRestore.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useScrollRestore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/hooks/useWindowSize.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/hooks/useWindowSize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/404/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/404/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/404/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/404/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Contact/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Contact/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Contact/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/DisplacementSphere.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/DisplacementSphere.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/DisplacementSphere.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/DisplacementSphere.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/ProjectSummary.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/ProjectSummary.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/ProjectSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/ProjectSummary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/sphereFragShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/sphereFragShader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/sphereVertShader.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/sphereVertShader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Uses/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Uses/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Uses/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Uses/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/utils/focus.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/utils/focus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/utils/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/utils/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/utils/prerender.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/utils/prerender.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/utils/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/utils/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/utils/three.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/utils/three.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/utils/transition.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/utils/transition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +280,7 @@
       <workItem from="1662691580960" duration="7868000" />
       <workItem from="1662968114369" duration="1617000" />
       <workItem from="1663164139269" duration="1030000" />
-      <workItem from="1663336012586" duration="4895000" />
+      <workItem from="1663336012586" duration="7027000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1662701681474</created>
@@ -197,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662959645994</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2.0">
+      <created>1663388077213</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663388077213</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +425,9 @@
     <MESSAGE value="10" />
     <MESSAGE value="11" />
     <MESSAGE value="12" />
-    <option name="LAST_COMMIT_MESSAGE" value="12" />
+    <MESSAGE value="2.0" />
+    <MESSAGE value="13" />
+    <option name="LAST_COMMIT_MESSAGE" value="13" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

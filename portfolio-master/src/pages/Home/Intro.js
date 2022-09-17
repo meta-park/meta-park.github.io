@@ -142,17 +142,10 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                 </TransitionGroup>
                                 </div>
                                 <div className='intro_player'>
-                                    {/* <Player>
-
-                                    </Player> */}
                                     <iframe
-    title='vedio'
-    src="//player.bilibili.com/player.html?aid=60016166&bvid=1b541197Yv&page=1&as_wide=1&high_quality=1&danmaku=0"
-    allowFullScreen="fullscreen"
-    width="100%"
-    height="100%"
-    scrolling="no"
-    sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"/>
+    src="//player.bilibili.com/player.html?aid=469015433&bvid=BV1b541197Yv&cid=721223195&page=1&as_wide=1&high_quality=1"
+    scrolling="no" border="0" frameBorder="no" framespacing="0" width="100%" height="100%"
+    allowFullScreen="true"/>
                                 </div>
                             </Heading>
                         </header>
