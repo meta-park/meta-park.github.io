@@ -83,6 +83,7 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                     delay={300}
                                 />
                             </h1>
+
                             <Heading level={0} as="h2" className={classNames('intro__title','intro__player_wrapper')}>
                                 <div>
                                 <VisuallyHidden className="intro__title-label">{`Designer + ${introLabel}`}</VisuallyHidden>
@@ -102,7 +103,7 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
                                         METAPARK<br></br>数幻游园
                                     </span>
                                     <span
-                                        classNameperppplllsss={classNames(
+                                        classnameperppplllsss={classNames(
                                             'intro__title-line',
                                             `intro__title-line--${status}`
                                         )}
@@ -145,14 +146,13 @@ function Intro({ id, sectionRef, disciplines, scrollIndicatorHidden, ...rest }) 
 
                                     </Player> */}
                                     <iframe
-                                    title='vedio'
-                                    src="//player.bilibili.com/player.html?aid=60016166&bvid=1b541197Yv&page=1&as_wide=1&high_quality=1&danmaku=0"
-                                    allowfullscreen="allowfullscreen"
-                                    width="100%"
-                                    height="100%"
-                                    scrolling="no"
-                                    frameborder="0"
-                                    sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+    title='vedio'
+    src="//player.bilibili.com/player.html?aid=60016166&bvid=1b541197Yv&page=1&as_wide=1&high_quality=1&danmaku=0"
+    allowFullScreen="fullscreen"
+    width="100%"
+    height="100%"
+    scrolling="no"
+    sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"/>
                                 </div>
                             </Heading>
                         </header>

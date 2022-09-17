@@ -10,8 +10,8 @@ import iphone11 from 'assets/iphone-11.glb'
 import macbookPro from 'assets/macbook-pro.glb'
 // import spotify_player from 'assets/spotify-player.jpg'
 // import spotify_player_placeholder from 'assets/spotify-player-blurred.jpg'
-// import player from 'assets/player.jpg'
-// import player_placeholder from 'assets/player-blurred.jpg'
+import player from 'assets/player.jpg'
+import player_placeholder from 'assets/player-blurred.jpg'
 import park_model from 'assets/parkmodel.jpg'
 import chess from 'assets/chess-1.jpg'
 //import chess2 from 'assets/chess-2.jpg'
@@ -39,7 +39,7 @@ const Home = () => {
     const intro = useRef()
     const projectOne = useRef()
     const projectTwo = useRef()
-    // const projectThree = useRef()
+    const projectThree = useRef()
     // const projectFour = useRef()
     // const projectFive = useRef()
     const parksCarousel = useRef()
@@ -52,7 +52,7 @@ const Home = () => {
             projectOne,
             projectTwo,
             parksCarousel,
-            //projectThree,
+            projectThree,
             //projectFour,
             //projectFive,
             details,
@@ -215,27 +215,29 @@ const Home = () => {
                     ],
                 }}
             />
-             {/*<ProjectSummary
+             {
+                 <ProjectSummary
                 id="project-3"
                 sectionRef={projectThree}
                 visible={visibleSections.includes(projectThree.current)}
                 index={3}
-                title="Fubuki"
-                description="Github GraphQL API Wraper"
-                buttonText="View Project"
-                buttonLink="https://github.com/alensaito1/fubuki"
+                title="上海九大历史公园概况"
+                description="Overview of the Nine Historical Parks in Shanghai"
+                buttonText="查看详情"
+                buttonLink="/#parks"
                 model={{
-                    type: 'laptop',
-                    alt: 'Fubuki',
+                    type: 'phone',
+                    alt: 'Spotifydl-Core',
                     textures: [
                         {
-                            src: fubuki,
-                            srcSet: `${fubuki} 800w, ${fubuki} 1440w`,
-                            placeholder: fubuki_ph,
-                        },
+                            src: player,
+                            srcSet: `${player} 254w, ${player} 508w`,
+                            placeholder: player_placeholder,
+                        }
                     ],
                 }}
             />
+            /*
             <ProjectSummary
                 id="project-4"
                 alternate
@@ -288,6 +290,28 @@ const Home = () => {
                 id="parks"
                 sectionRef={parksCarousel}
             ></Carousel>
+            {/*<ProjectSummary*/}
+            {/*    id="project-3"*/}
+            {/*    alternate*/}
+            {/*    sectionRef={projectThree}*/}
+            {/*    visible={visibleSections.includes(projectThree.current)}*/}
+            {/*    index={3}*/}
+            {/*    title="上海九大历史公园概况"*/}
+            {/*    description="Overview of the Nine Historical Parks in Shanghai"*/}
+            {/*    // buttonText="敬请期待"*/}
+            {/*    // buttonLink=""*/}
+            {/*    // model={{*/}
+            {/*    //     type: 'vr',*/}
+            {/*    //     alt: 'Spotifydl-Core',*/}
+            {/*    //     textures: [*/}
+            {/*    //         {*/}
+            {/*    //             src: chess,*/}
+            {/*    //             srcSet: `${chess} 254w, ${chess} 508w`,*/}
+            {/*    //             placeholder: chess_ph,*/}
+            {/*    //         }*/}
+            {/*    //     ],*/}
+            {/*    // }}*/}
+            {/*/>*/}
             <Profile
                 sectionRef={details}
                 visible={visibleSections.includes(details.current)}

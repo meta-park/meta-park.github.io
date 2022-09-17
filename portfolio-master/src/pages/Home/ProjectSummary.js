@@ -156,15 +156,16 @@ const ProjectSummary = ({
                                     ...model.textures[0],
                                     sizes: phoneSizes,
                                 },
-                            },
-                            {
-                                ...deviceModels.phone,
-                                position: { x: 0.6, y: -0.5, z: 0.3 },
-                                texture: {
-                                    ...model.textures[1],
-                                    sizes: phoneSizes,
-                                },
-                            },
+                            }
+                            // ,
+                            // {
+                            //     ...deviceModels.phone,
+                            //     position: { x: 0.6, y: -0.5, z: 0.3 },
+                            //     texture: {
+                            //         ...model.textures[1],
+                            //         sizes: phoneSizes,
+                            //     },
+                            // },
                         ]}
                     />
                 </Fragment>

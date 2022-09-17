@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="12">
+      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/00.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/player.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/assets/player.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/ProjectSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/ProjectSummary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +45,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.17.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.58" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/portfolio-master/node_modules/stylelint" />
-    <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -77,6 +88,9 @@
       <workItem from="1662641932471" duration="901000" />
       <workItem from="1662689941805" duration="1180000" />
       <workItem from="1662691580960" duration="7868000" />
+      <workItem from="1662968114369" duration="1617000" />
+      <workItem from="1663164139269" duration="1030000" />
+      <workItem from="1663336012586" duration="4895000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1662701681474</created>
@@ -176,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662958215560</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="12">
+      <created>1662959645994</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662959645994</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +213,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -207,5 +229,9 @@
     <MESSAGE value="11" />
     <MESSAGE value="12" />
     <option name="LAST_COMMIT_MESSAGE" value="12" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
