@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d699af1e-a793-4956-945f-2161947f1fed" name="Default Changelist" comment="12">
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-master/src/assets/0/8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/00.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/assets/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-master/src/pages/Home/Carousel.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +84,7 @@
       <workItem from="1662968114369" duration="1617000" />
       <workItem from="1663164139269" duration="1030000" />
       <workItem from="1663336012586" duration="7952000" />
-      <workItem from="1663896022765" duration="1747000" />
+      <workItem from="1663896022765" duration="2175000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1662701681474</created>
@@ -225,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663398216808</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="14">
+      <created>1663898257421</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663898257421</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +245,8 @@
     <MESSAGE value="12" />
     <MESSAGE value="2.0" />
     <MESSAGE value="13" />
-    <option name="LAST_COMMIT_MESSAGE" value="13" />
+    <MESSAGE value="14" />
+    <option name="LAST_COMMIT_MESSAGE" value="14" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
