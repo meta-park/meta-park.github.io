@@ -4,23 +4,23 @@ import "slick-carousel/slick/slick-theme.css";
 import "./Carousel.css";
 import Section from 'components/Section'
 
-import img00 from '../../assets/00.jpg';
+import img0 from '../../assets/0/0.jpg';
 // import img1 from '../../assets/01.jpg';
-import img2 from '../../assets/02.jpg';
-import img3 from '../../assets/03.jpg';
+import img2 from '../../assets/0/2.jpg';
+import img3 from '../../assets/0/3.jpg';
 // import img4 from '../../assets/04.jpg';
-import img5 from '../../assets/05.jpg';
-import img6 from '../../assets/06.jpg';
-import img7 from '../../assets/07.jpg';
+import img5 from '../../assets/0/5.jpg';
+import img6 from '../../assets/0/6.jpg';
+import img7 from '../../assets/0/7.jpg';
 // import img8 from '../../assets/08.jpg';
-import img11 from '../../assets/1.jpg';
+import img1 from '../../assets/0/1.jpg';
 // import img22 from '../../assets/2.jpg';
 // import img33 from '../../assets/3.jpg';
-import img44 from '../../assets/4.jpg';
+import img4 from '../../assets/0/4.jpg';
 // import img55 from '../../assets/5.jpg';
 // import img66 from '../../assets/6.jpg';
 // import img77 from '../../assets/7.jpg';
-import img88 from '../../assets/8.jpg';
+import img8 from '../../assets/0/8.jpg';
 //
 // function SampleNextArrow(props) {
 //     const { className, style, onClick } = props;
@@ -76,7 +76,7 @@ export default function SimpleSlider({id, visible, sectionRef}) {
                     <Slider {...settings}>
 
                         <div>
-                            <img src={img00} alt="" className="bottom-border"/>
+                            <img src={img0} alt="" className="bottom-border"/>
                             <a>复兴公园（Fuxing Garden）位于上海雁荡路105号，东邻重庆南路，南临复兴中路，西近思南路，北与科学会堂等为界。1995年全园面积为8.89万平方米。复兴公园是上海一座保留法国古典式风格的园林，也是近代上海中西园林文化交融的杰作。融中西式为一体，突出法国规则式造园风格，这里的花坛采用下沉式，时下爱称沉床园，利用地面高差使人们的视点抬高，能更好地俯视花坛整体的效果，为公园的一大特点。</a>
                         </div>
 
@@ -86,7 +86,7 @@ export default function SimpleSlider({id, visible, sectionRef}) {
                         </div>
 
                         <div >
-                            <img src={img44} alt="" className="bottom-border"/>
+                            <img src={img4} alt="" className="bottom-border"/>
                             <a>中山公园（Zhong Shan Park），原名兆丰公园，位于上海市长宁区长宁路780号（近定西路），1914 年英国人兆丰在沪时建立的，是当时上海最负盛名的公园。公园以英国式自然造园风格为主，融中国园林艺术之精华，中西合壁，风格独特，是上海原有景观风格保持最为完整的老公园。获得过“上海市四星级公园”的荣誉称号。中山公园占地面积约20万平方米，全园可分为大小不等的景点约120余处。</a>
                         </div>
 
@@ -96,7 +96,7 @@ export default function SimpleSlider({id, visible, sectionRef}) {
                         </div>
 
                         <div>
-                            <img src={img11} alt="" className="bottom-border"/>
+                            <img src={img1} alt="" className="bottom-border"/>
                             <a>豫园（Yu Garden）位于上海市老城厢的东北部，北靠福佑路，东临安仁街，西南与上海老城隍庙毗邻，是江南古典园林，始建于明代嘉靖、万历年间，占地三十余亩。豫园的绿化布局合理，植物配置得当，层次分明，其特点是古树名木多、大盆景多、摆花多，园内还有穗堂、铁狮子、快楼、得月楼、玉玲珑、积玉水廊、听涛阁、涵碧楼、内园静观大厅、古戏台等亭台楼阁以及假山、池塘等四十余处古代建筑。</a>
                         </div>
 
@@ -111,7 +111,7 @@ export default function SimpleSlider({id, visible, sectionRef}) {
                         </div>
 
                         <div>
-                            <img src={img88} alt="" className="bottom-border"/>
+                            <img src={img8} alt="" className="bottom-border"/>
                             <a>醉白池（Zuibai Pool）是江南著名的古典园林之一，是上海的旅游胜地，已有九百余年历史。醉白池历经300余年，仍保存有堂，轩，亭，舫，榭等古建筑，并保持着明清江南园林风貌。园内古木葱笼，亭台密布，古迹甚多，有四面厅、乐天轩、疑肪、雪海堂、宝成楼、池上草堂等亭台楼阁及邦彦画像石刻、《赤壁赋》真迹石刻、《难得糊涂》石刻等艺术瑰宝，还有树龄在三四百年的古银杏、古樟树，年龄在百年以上的牡丹。
                             </a>
                         </div>

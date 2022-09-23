@@ -44,7 +44,7 @@
     /*display: flex;*/
     /*flex-direction: column;*/
     /*justify-content: space-between;*/
-    border: 17px none #cccccc;
+    border: 12px none #cccccc;
     border-bottom-style:solid;
 }
 
@@ -56,13 +56,13 @@
 }
 @media all and (min-width: 769px) and (max-width: 1349px){
   .cur {
-      font-size: 20px
+      font-size: 16px
       /*padding: 0.2vw 0 !important;*/
       /*border-bottom: 3px solid #6f2d91 !important;*/
   }
 }
 @media all and (min-width: 1350px){
   .cur {
-      font-size: 25px
+      font-size: 20px
   }
 }
